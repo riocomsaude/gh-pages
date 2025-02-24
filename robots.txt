@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://riocomsaude.com.br/sitemap.xml
